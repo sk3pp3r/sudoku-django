@@ -1,5 +1,6 @@
 # sudoku-django
 ## An in-browser sudoku solver written in Python using Django
+[![Docker Image CI](https://github.com/sk3pp3r/sudoku-django/actions/workflows/docker-image.yml/badge.svg)](https://github.com/sk3pp3r/sudoku-django/actions/workflows/docker-image.yml)
 
 The solver is hosted on: http://oskaerik.pythonanywhere.com/
 
