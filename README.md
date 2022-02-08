@@ -14,3 +14,4 @@ If you want to run the solver locally:
 If you enter an invalid grid, it will try to find a solution for 120 seconds or until a contradiction was reached. The solver can find solutions for grids with more than one possible solution as long as it doesn't time out.
 
 Happy solving!
+-------------
